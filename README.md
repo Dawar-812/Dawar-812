@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dawar-812
 - 👀 I’m interested in machine learning, deep learning, Bayesian and Causal Inference
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning, deep learning
 - 💞️ I’m looking to collaborate on data science projects, bayesian data analysis, deep learning. 
 - 📫 How to reach me: https://www.linkedin.com/in/dawar-qureshi-7284b089/
 

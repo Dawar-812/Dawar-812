@@ -7,11 +7,9 @@ With a **B.Eng. in Mechanical Engineering** and an **M.Sc. in Hydro Science & En
 
 - 🌊 **Hydraulic & Water Engineering** — dams, reservoirs, stormwater systems, and other water infrastructure
 - 🌧️ **Flood Studies & Risk Assessment** — modelling flood behaviour and evaluating climate impacts on water systems
-- 🖥️ **Computational Modelling & Data Analysis** — using numerical methods to understand flows and improve infrastructure performance
-- 🌱 **Sustainable Engineering** — designing climate-resilient water infrastructure
-
-I’m looking to **collaborate on open-source projects** and research ideas in **hydropower systems, flood risk modelling, and the design & operation of hydraulic infrastructure**.
-
+-🖥️ Computational Modelling, CFD & Data Analysis — applying numerical methods and computational fluid dynamics to understand flows, assess hydraulic machine performance, and improve infrastructure design
+-🌱 Sustainable Engineering — designing climate-resilient water infrastructure
+I’m looking forward to collaborate on open-source projects and research ideas in hydropower systems, flood risk modelling, CFD applications, and the design & operation of hydraulic infrastructure**.
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dawar-qureshi-7284b089/)
 
 

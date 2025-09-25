@@ -15,7 +15,8 @@ I’m looking to collaborate on **open-source projects and research ideas** in:
 - Hydropower systems  
 - Flood risk modelling  
 - **CFD applications** in hydraulic engineering and hydraulic machines  
-- Design & operation of hydraulic infrastructure 
+- Design & operation of hydraulic infrastructure
+
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dawar-qureshi-7284b089/)
 
 

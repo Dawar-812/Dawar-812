@@ -4,10 +4,10 @@
 
 ##  Interests & Experience
 
-- **Hydraulic & Water Engineering** — dams, reservoirs, stormwater systems, and other water infrastructure  
-- **Flood Studies & Risk Assessment** — modelling flood behaviour and evaluating climate impacts on water systems  
-- **Computational Modelling, CFD & Data Analysis** — applying numerical methods and computational fluid dynamics to understand flows, assess hydraulic machine performance, and improve infrastructure design  
-- **Sustainable Engineering** — designing climate-resilient water infrastructure  
+- **Hydraulic & Water Engineering** : dams, reservoirs, stormwater systems, and other water infrastructure  
+- **Flood Studies & Risk Assessment** : modelling flood behaviour and evaluating climate impacts on water systems  
+- **Computational Modelling, CFD & Data Analysis** : applying numerical methods and computational fluid dynamics to understand flows, assess hydraulic machine performance, and improve infrastructure design  
+- **Sustainable Engineering** : designing climate-resilient water infrastructure  
 
 ## Collaboration
 

@@ -1,6 +1,6 @@
-- ### Hi , I'm Dawar  Qureshi
+### Hi , I'm Dawar  Qureshi
 
- **Engineer | Researcher | Computational Modeler | Data Analyst**
+**Engineer | Researcher | Computational Modeler | Data Analyst**
 
 ##  Interests & Experience
 

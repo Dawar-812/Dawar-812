@@ -1,8 +1,8 @@
-- ### Hi there 👋, I'm Dawar  Qureshi
+- ### Hi , I'm Dawar  Qureshi
 
-💧 **Engineer | Researcher | Computational Modeler | Data Analyst**
+ **Engineer | Researcher | Computational Modeler | Data Analyst**
 
-## 🌟 Interests & Experience
+##  Interests & Experience
 
 - 🌊 **Hydraulic & Water Engineering** — dams, reservoirs, stormwater systems, and other water infrastructure  
 - 🌧️ **Flood Studies & Risk Assessment** — modelling flood behaviour and evaluating climate impacts on water systems  

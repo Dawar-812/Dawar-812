@@ -16,7 +16,7 @@ I’m looking to collaborate on **open-source projects and research ideas** in:
 - Flood risk modelling  
 - CFD applications in hydraulic engineering.
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dawar-qureshi-7284b089/)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/dawar-qureshi-7284b089/)
 
 
 <!---

@@ -1,20 +1,14 @@
 ### Hi , I'm Dawar  Qureshi
 
-**Engineer | Researcher | Computational Modeler | Data Analyst**
-
-##  Interests & Experience
-
-- **Hydraulic & Water Engineering** : dams, reservoirs, stormwater systems, and other water infrastructure  
-- **Flood Studies & Risk Assessment** : modelling flood behaviour and evaluating climate impacts on water systems  
-- **Computational Modelling, CFD & Data Analysis** : applying numerical methods and computational fluid dynamics to understand flows and improve infrastructure design  
-- **Sustainable Engineering** : designing climate-resilient water infrastructure  
-
+I am an engineer and researcher in Water engineering. My work focuses on addressing overfitting in water infrastructure, particularly, drainage systems. 
+My research interests include uncertainty quantification in water infrastructure designs, complex interactions between data used to design this infrastructure, and finding hidden patterns. I am also interested in understanding how non-linearity (the processes that generate hydrometeorological data are non-linear) affect model calibration and optimisation. 
 ## Collaboration
 
 I’m looking to collaborate on **open-source projects and research ideas** in:
-- Hydropower systems  
+- Resilient Drainage Design   
 - Flood risk modelling  
-- CFD applications in hydraulic engineering.
+- Stochastic Computational Hydrology and Hydraulics.
+
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dawar-qureshi-7284b089/)
 

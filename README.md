@@ -4,7 +4,7 @@ I am an engineer and researcher in Water engineering. My work focuses on address
 My research interests include uncertainty quantification in water infrastructure design,and pattern recognition in high dimensional environmental data. I am also interested in understanding how inherently non-linear hydrometeorological processes affect model calibration and optimisation. 
 ## Collaboration
 
-I’m looking to collaborate on **open-source projects and research ideas** in:
+I’m looking to collaborate on research projects in:
 - Resilient Drainage Design   
 - Flood risk modelling  
 - Stochastic Computational Hydrology and Hydraulics.

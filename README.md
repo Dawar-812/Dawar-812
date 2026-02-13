@@ -1,7 +1,7 @@
 ### Hi , I'm Dawar  Qureshi
 
-I am an engineer and researcher in Water engineering. My work focuses on addressing overfitting in water infrastructure, particularly, drainage systems. 
-My research interests include uncertainty quantification in water infrastructure designs, complex interactions between data used to design this infrastructure, and finding hidden patterns. I am also interested in understanding how non-linearity (the processes that generate hydrometeorological data are non-linear) affect model calibration and optimisation. 
+I am an engineer and researcher in Water engineering. My work focuses on addressing overfitting challenges in water infrastructure, particularly, drainage systems. 
+My research interests include uncertainty quantification in water infrastructure design,and pattern recognition in high dimensional environmental data. I am also interested in understanding how inherently non-linear hydrometeorological processes affect model calibration and optimisation. 
 ## Collaboration
 
 I’m looking to collaborate on **open-source projects and research ideas** in:
